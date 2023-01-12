@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+    margin: 25px;
+    font-family: Georgia, 'Times New Roman';
+    text-align: center;
+}
+
+h1 {
+    border-bottom: 20px;
+    color: rgb(192, 28, 28);
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    color: rgb(187, 104, 104);
+    font-weight: 200;
+    text-align: left;
+    word-spacing: 1px;
+    font-size: 14px;
+    padding-left: 230pt;
+    padding-right: 100pt;
+}
+
+address {
+    color: rgb(187, 104, 104);
+    font-weight: 200;
+    text-align: center;
+    font-size: 14px;
+}
+
+ul {
+    color: rgb(187, 104, 104);
+    text-align: left;
+    align-items: center;
+    display: inline-block;
+}
+
+img {
+    border: 1px solid red;
+    padding: 10px;
+    border-image-width: 250px;
+    opacity: 0.5;
+}
+
+a {
+    color: rgb(192, 28, 28);
+}
+
+a:hover {
+    color: rgb(33, 51, 146);
+}
