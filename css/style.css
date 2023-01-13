@@ -13,6 +13,18 @@ h1 {
     text-transform: uppercase;
 }
 
+h2, h3 {
+    border-bottom: 20px;
+    color: rgb(192, 28, 28);
+    text-align: center; 
+}
+
+#haku, #h3opettaja, #h3eropettaja, #h3opintoopettaja {
+    text-align: left;
+    padding-left: 230pt;
+    padding-right: 100pt;
+}
+
 p {
     color: rgb(187, 104, 104);
     font-weight: 200;
