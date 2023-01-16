@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+  }
+
+header, footer {
+    background: purple;
+    height: 100px;
+  }
+
+h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+  }
+
+h2 {
+    margin: 10px;
+}
+
+article {
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+  }
+
+#sidenav {
+    float: left;
+    margin: 0px;
+    width: 150px;
+    border-radius: 0px;
+    background-color: white;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+}
