@@ -33,3 +33,8 @@ footer {
 #col3 {
     background-color: rgb(126, 177, 126);
 }
+
+.btn {
+    background-color: rgb(17, 83, 17);
+    color: rgb(187, 207, 180);
+}
